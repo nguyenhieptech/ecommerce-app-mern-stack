@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">🚀 Ecommerce Web App built with the MERN stack & Redux 🚀 </p>
+<p align="center">📂 See demo in assets folder 📂 </p>
 
-![Recordit GIF](http://g.recordit.co/UNF3cnWf90.gif)
 
 Table of Contents
 ---
@@ -21,7 +21,7 @@ Table of Contents
 
 
 ## Features
----
+
 - Full featured shopping cart
 - Product reviews and ratings
 - Top products carousel
@@ -36,7 +36,7 @@ Table of Contents
 - Database seeder (products & users)
 
 ## Technology Stack
----
+
 - MongoDB Atlas and MongoDB Compass Community
 - Express
 - React, React Bootstrap and Redux
@@ -44,7 +44,7 @@ Table of Contents
 - Yarn
 
 ## ES Modules in Nodejs
----
+
 ECMAScript Modules are used in the backend. Be sure to have at least `Node v14.6+` or you will need to add the `--experimental-modules` flag.
 
 Also, when importing a file (not a package), be sure to add .js at the end or you will get a `module not found` error
@@ -60,7 +60,7 @@ You can also install and setup Babel if you would like.
 Example: Admin can delete himself, etc.
 
 ## Environment Variables
----
+
 Create a .env file in the root and add the following variables. Add MongoDB URI and Paypal Client ID.
 
 ```
@@ -72,7 +72,7 @@ PAYPAL_CLIENT_ID = *paypal client id*
 ```
 
 ## Install Dependencies
----
+
 `yarn` is being used in this project. You might not be able to setup the project with `npm`. Download [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) here: https://classic.yarnpkg.com/en/docs/install/#windows-stable
 
 When in the root folder, run these commands in command line to install all needed dependencies (packages). 
@@ -88,7 +88,7 @@ yarn install
 ```
 
 ## Create Sample Data in Database
----
+
 Firstly, you should create some initial data to work first. You can use the following commands in `command line` to create the database with some sample users and products.
 
 Import data
@@ -116,7 +116,7 @@ yarn run data:destroy
 ```
 
 ## Start the project
----
+
 Using `concurrently` package can help us to run both frontend (React) and backend (Express) with just one command. As you might know, they run in two different servers, or localhost.
 
 Guide: https://www.rockyourcode.com/javascript-development-run-concurrently/
@@ -135,7 +135,7 @@ yarn run server
 If you have any problems with this `concurrently` package, just uninstall and install it again, it might work well.
 
 ## Learning Resources
----
+
 Check out the course: MERN eCommerce From Scratch. This is where I get the source code.
 
 https://www.udemy.com/course/mern-ecommerce/
