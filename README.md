@@ -2,18 +2,7 @@
   <img src="./assets/mern-stack.png">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg">
-  <a href="https://app.netlify.com/sites/tnote/deploys"><img src="https://api.netlify.com/api/v1/badges/a0e055de-cab8-4217-80dd-5bd769b7d478/deploy-status"></a>
-  <a href='https://coveralls.io/github/taniarascia/takenote'><img src='https://coveralls.io/repos/github/taniarascia/takenote/badge.svg' alt='Coverage Status' /></a>
-</p>
-
-<p align="center">
-  <a href="https://sonarcloud.io/dashboard?id=taniarascia_takenote"><img src="https://sonarcloud.io/api/project_badges/measure?project=taniarascia_takenote&metric=sqale_rating"></a>
-  <a href="https://sonarcloud.io/dashboard?id=taniarascia_takenote"><img src="https://sonarcloud.io/api/project_badges/measure?project=taniarascia_takenote&metric=reliability_rating"></a>
-</p>
-
-<p align="center">Ecommerce Web App built with the MERN stack & Redux. </p>
+<p align="center">🚀 Ecommerce Web App built with the MERN stack & Redux 🚀 </p>
 
 ![Recordit GIF](http://g.recordit.co/UNF3cnWf90.gif)
 
