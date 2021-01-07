@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">🚀 Ecommerce Web App built with the MERN stack & Redux 🚀 </p>
-<p align="center">📂 See demo in assets folder 📂 </p>
 
+Demo
+---
+Click [here](https://recordit.co/UNF3cnWf90) or copy the URL: https://recordit.co/UNF3cnWf90
 
 Table of Contents
 ---
@@ -73,7 +75,7 @@ PAYPAL_CLIENT_ID = *paypal client id*
 
 ## Install Dependencies
 
-`yarn` is being used in this project. You might not be able to setup the project with `npm`. Download [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) here: https://classic.yarnpkg.com/en/docs/install/#windows-stable
+I use `yarn` for this project. Download [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) here: https://classic.yarnpkg.com/en/docs/install/#windows-stable
 
 When in the root folder, run these commands in command line to install all needed dependencies (packages). 
 
